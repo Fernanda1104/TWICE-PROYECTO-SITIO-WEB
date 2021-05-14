@@ -1,0 +1,162 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+body{
+    background: #313D52;
+}
+
+.navegación{
+    width: 900px;
+    margin: 40px auto;
+    background: rgb(0, 0, 0);
+}
+
+.navegación ul{
+    list-style: none;
+}
+
+.menu > li{
+    position: relative;
+    display: inline-block;
+}
+  
+.menu > li > a{
+    display: block;
+    padding: 10px 5px;
+    color: rgb(255, 0, 0);
+    font-family:'Open Sans', 'Helvetica Neue', sans-serif;
+    text-decoration: none;
+}
+
+.menu li a:hover{
+    color: rgb(229, 255, 0);
+    transition: all .3s;
+}
+
+.Redes{
+    width: 800px;
+    margin: 30px auto;
+    background: rgb(163, 6, 6);
+}
+
+.Redes ul{
+    list-style: none;
+}
+
+.Redes1 > li{
+    position: relative;
+    display: inline-block;
+}
+
+.Redes{
+    font-family: initial;
+    color: rgb(255, 255, 255);
+}
+
+.Presentación1{
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(251, 255, 0);
+}
+
+.Pre{
+    width: 700px;
+    height: 380px;
+    margin: 30px auto;
+    background: rgb(177, 17, 17);
+}
+
+.Pre1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(255, 255, 255);
+}
+
+.Pre2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(255, 255, 255);
+}
+
+.Pre img{
+    float: left;
+}
+
+.Prede0{
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(250, 4, 4);
+}
+
+.Prede0{
+    width: 700px;
+    height: 380px;
+    margin: 30px auto;
+    background: rgb(0, 0, 0);
+}
+
+.Prede2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(255, 255, 255);
+}
+
+.Prede0 iframe{
+    float: left;
+}
+
+.De1{
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(251, 255, 0);
+}
+
+.De{
+    width: 700px;
+    height: 500´x;
+    background: rgb(167, 7, 7);
+    margin: 30px auto;
+    
+}
+
+.De2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(255, 255, 255);
+}
+
+.Int1{
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(250, 4, 4);
+}
+
+.Int{
+    width: 1150px;
+    height: 1310px;
+    margin: 30px auto;
+    background: rgb(0, 0, 0);
+}
+
+.C{
+    color: rgb(250, 4, 4);
+}
+
+.Int2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(255, 255, 255);
+}
+
+.Int img{
+    float: center;
+}
+
+.Mus1{
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(251, 255, 0);
+}
+
+.Mus{
+    width: 700px;
+    height: 500´x;
+    background: rgb(167, 7, 7);
+    margin: 30px auto;
+    
+}
